@@ -15,7 +15,7 @@
             data:{
                 type: Object,
                 default: {
-                    name: 'day',
+                    name: 'name',
                     country: 'china'
                 }
             }
